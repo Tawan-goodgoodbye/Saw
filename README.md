@@ -1,4 +1,4 @@
-# Hi there, I'm Saw! 
+# Hi there, I'm Saw
 
 ## About Me 
 
@@ -6,7 +6,7 @@ I'm a passionate about tech with experience in **[Data Science]**. I love learni
 
 - 🌱 Focus on : **[AI agents]**
 - 🔭 Working on: **[UniPro]**
-- 🌍 Languages: **[Python,Javascript]**
+- 🌍 Languages: **[Python,JavaScript]**
 - 📫 How to reach me: **[sawnyanlintun26@gmail.com]**
 - ⚡ Fun fact: **[If you are a fan of kpop,you gonna be my friends.]**
 
